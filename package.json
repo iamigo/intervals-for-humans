@@ -1,0 +1,29 @@
+{
+  "name": "intervals-for-humans",
+  "version": "1.0.0",
+  "description": "Convert human-readable intervals like '1h' or '5m' or '15s' into milliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamigo/intervals-for-humans.git"
+  },
+  "keywords": [
+    "time",
+    "interval",
+    "milliseconds"
+  ],
+  "author": "Ian M. Goldstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamigo/intervals-for-humans/issues"
+  },
+  "homepage": "https://github.com/iamigo/intervals-for-humans#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "nyc": "^15.1.0"
+  }
+}
