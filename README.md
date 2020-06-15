@@ -5,5 +5,3 @@ Returns false if the interval is invalid.
 ## Installation
 
 ```$ npm install intervals-for-humans```
-
-
