@@ -4,8 +4,8 @@
   "description": "Convert human-readable intervals like '1h' or '5m' or '15s' into milliseconds",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
-    "test-coverage": "npm run test && cat ./tests/coverage/lcov.info | coveralls"
+    "test": "jest tests --coverage",
+    "test-coverage": "jest tests --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",

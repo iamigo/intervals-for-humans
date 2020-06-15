@@ -1,4 +1,4 @@
-const func = require('./index');
+const func = require('../index');
 
 test('Must be a string with length >= 2', () => {
     expect(func()).toBe.false;
