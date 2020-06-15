@@ -32,4 +32,3 @@ it('unit multiplication', () => {
     expect(func('7d')).toBe(604800000);
     expect(func('2w')).toBe(1209600000);
 });
-
