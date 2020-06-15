@@ -1,16 +1,8 @@
-<img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-<a href="https://github.com/iamigo/intervals-for-humans#readme" target="_blank">
-<img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-</a>
-<a href="https://github.com/iamigo/intervals-for-humans/graphs/commit-activity" target="_blank">
-<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-</a>
-<a href="https://github.com/iamigo/intervals-for-humans/blob/master/LICENSE" target="_blank">
-<img alt="License: MIT" src="https://img.shields.io/github/license/iamigo/intervals-for-humans" />
-</a>
-
 [![Build Status](https://travis-ci.org/iamigo/intervals-for-humans.svg?branch=master)](https://travis-ci.org/iamigo/intervals-for-humans)
 [![Coverage Status](https://coveralls.io/repos/github/iamigo/intervals-for-humans/badge.svg?branch=master)](https://coveralls.io/github/iamigo/intervals-for-humans?branch=master)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/iamigo/intervals-for-humans#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iamigo/intervals-for-humans/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/iamigo/intervals-for-humans)](https://github.com/iamigo/intervals-for-humans/blob/master/LICENSE)
 
 # intervals-for-humans
 
