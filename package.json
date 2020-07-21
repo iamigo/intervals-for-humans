@@ -1,6 +1,6 @@
 {
   "name": "intervals-for-humans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert human-readable intervals like '1h' or '5m' or '15s' into milliseconds",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/iamigo/intervals-for-humans#readme",
   "devDependencies": {
     "coveralls": "^3.1.0",
-    "jest": "^26.0.1"
+    "jest": "^26.1.0"
   }
 }
