@@ -2,4 +2,5 @@
 // Project: intervals-for-humans
 // Definitions by: Ian Goldstein
 
-export function (str: string): number | false;
+export = IntervalsForHumans;
+declare function IntervalsForHumans(str: string): number | false;
